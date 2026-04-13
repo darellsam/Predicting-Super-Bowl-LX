@@ -1,6 +1,6 @@
 # Predicting Super Bowl LX
 
-Quick and fun version: I was rooting for the Seahawks, the model picked the Seahawks... and hint hint, it was right haha.
+Basically, I was rooting for the Seahawks, the model picked the Seahawks... and hint hint, it was right haha.
 
 This is an end-to-end NFL analytics project that combines historical game data, betting market signals, Elo ratings, and roster context to estimate win probabilities for Super Bowl LX.
 
