@@ -1,5 +1,8 @@
 data/raw/
 venv/
+.venv/
+.venv-py313-failed/
+.tmp/
 .ipynb_checkpoints/
 .DS_Store
 __pycache__/

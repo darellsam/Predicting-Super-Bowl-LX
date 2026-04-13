@@ -48,9 +48,14 @@ notebooks/
 ## Quick start
 
 1. Create and activate a Python virtual environment.
-2. Install required libraries used in the notebooks (pandas, numpy, matplotlib, scikit-learn, pyarrow, etc.).
+2. Install the notebook dependencies with `pip install -r requirements.txt`.
 3. Run `notebooks/00_data_setup.ipynb` to build local caches.
 4. Run `notebooks/01_analysis.ipynb` for feature engineering, training, calibration, and simulation.
+
+## Reproducibility
+
+- The Python notebook dependencies are pinned in `requirements.txt`.
+- `notebooks/01_analysis.ipynb` is committed with executed outputs so the results can be viewed directly on GitHub.
 
 ## Notes
 

@@ -1,0 +1,8 @@
+ipykernel
+jupyterlab
+matplotlib
+nfl_data_py
+numpy
+pandas
+pyarrow
+scikit-learn
